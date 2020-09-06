@@ -26,7 +26,7 @@ class MyApp extends StatelessWidget {
         // closer together (more dense) than on mobile platforms.
         visualDensity: VisualDensity.adaptivePlatformDensity,
       ),
-      home: MyHomePage(title: 'Teste Git v4'),
+      home: MyHomePage(title: 'Teste Git v5'),
     );
   }
 }
